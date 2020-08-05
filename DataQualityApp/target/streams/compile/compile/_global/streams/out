@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/centos/deequ/DataQuality/src/main/scala/com/teliacompany/datamall/DataQualityApp.scala:5:12: object amazon is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazon.deequ.VerificationSuite[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/centos/deequ/DataQuality/src/main/scala/com/teliacompany/datamall/DataQualityApp.scala:6:12: object amazon is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazon.deequ.checks.{Check, CheckLevel, CheckStatus}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/centos/deequ/DataQuality/src/main/scala/com/teliacompany/datamall/DataQualityApp.scala:7:12: object amazon is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.amazon.deequ.constraints.ConstraintStatus[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

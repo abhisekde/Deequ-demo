@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.10.5":{"hashes":[["/home/centos/deequ/DataQuality/src/main/scala/com/teliacompany/datamall/DataQualityApp.scala","660f3a9f527dc0d17a53d1ff74fa460802c251fe"]],"lastModifiedTimes":[]}}]
